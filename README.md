@@ -17,6 +17,8 @@ pip install numpy pandas matplotlib scikit-learn
 Usage:
 Clone the repository.
 Run the provided Python script to execute the linear regression model for Airbnb price prediction.
+NOTE : Change path of CSV file in code.
+
 Data:
 
 The dataset used in this project is obtained from Airbnb listings.
